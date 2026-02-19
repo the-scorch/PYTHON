@@ -27,7 +27,7 @@ print(quot, type(quot))
 num = 61
 print(num, type(num))
 num = str(num) # Explicit to string
-print(num + num, type(num))
+print(num, type(num))
 num = bool(num) # Explicit to bool
 print(num, type(num))
 num = float(num) # Explicit to float
